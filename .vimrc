@@ -1,13 +1,13 @@
 execute pathogen#infect()
 
-source ~/fzf.vim
-source ~/yaml.vim
+source fzf.vim
+source yaml.vim
 
 syntax on
 filetype plugin indent on
 
 set hlsearch
-set noerrorbells                                              " Don't add sounds for errors
+set noerrorbells
 set number
 set nowrap
 set ignorecase

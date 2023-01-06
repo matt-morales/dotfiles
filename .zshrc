@@ -2,12 +2,15 @@
 
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
-source ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # pure
 
-fpath+=($HOME/.zsh/pure)
-autoload -U promptinit; promptinit
+fpath+=($HOME/dotfiles/.zsh/pure)
+
+autoload -Uz promptinit
+promptinit
+prompt pure
 
 # optionally define some options
 PURE_CMD_MAX_EXEC_TIME=10
@@ -21,13 +24,11 @@ zstyle ':prompt:pure:prompt:*' color cyan
 # turn on git stash status
 zstyle :prompt:pure:git:stash show yes
 
-prompt pure
-
 # aliases
 
 alias ll='ls -alG'
 
-[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+[ -f ~/dotfiles/.fzf.zsh ] && source ~/dotfiles/.fzf.zsh
 
 # Exclude those directories even if not listed in .gitignore, or if .gitignore is missing
 FD_OPTIONS="-L -E .git -E node_modules"
