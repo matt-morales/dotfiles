@@ -1,0 +1,935 @@
+{
+  "coc-flutter|/Users/matthewmorales/development/cli/packages/calculator": {
+    "selectedDeviceId": "macos"
+  },
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "/Users/matthewmorales/.pyenv/versions/3.10.6/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/matthewmorales/.pyenv/versions/3.10.6/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.6-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.6-final"
+        },
+        "sysPrefix": "/Users/matthewmorales/.pyenv/versions/3.10.6",
+        "fileHash": "53cf60b73358f9aec3979d8cb861406c5e044150dcceacd7f57051af2c8fb0681b545526081665bb99d4cf28d8fc5a1f7dec44d002e2d2aeb2ff58bc8ae03d10"
+      },
+      "expiry": 1666959802632
+    },
+    "/Users/matthewmorales/.pyenv/versions/3.10.6/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/matthewmorales/.pyenv/versions/3.10.6/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.6-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.6-final"
+        },
+        "sysPrefix": "/Users/matthewmorales/.pyenv/versions/3.10.6",
+        "fileHash": "91cfad180c90174ca839d563315234ffea66d6526ef57e55ee3e04820cb0f4a5917d17fdb51aedbdd3ad3a613ce8402241efdb5903915deb888aaaddd41b0f0e"
+      },
+      "expiry": 1666959802632
+    },
+    "/Users/matthewmorales/.pyenv/versions/3.10.6/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/matthewmorales/.pyenv/versions/3.10.6/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.6-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.6-final"
+        },
+        "sysPrefix": "/Users/matthewmorales/.pyenv/versions/3.10.6",
+        "fileHash": "a288d729358158bc2bab22ea61c689299da14284e2c5d15ba92b8ca743399e9106d79a362d3166dd2b94cd53336c628b34bb69d0cee22aea555c481b36b6a184"
+      },
+      "expiry": 1666959802633
+    },
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/matthewmorales/.pyenv/versions/3.10.6/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.6-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.6-final"
+        },
+        "sysPrefix": "/Users/matthewmorales/.pyenv/versions/3.10.6",
+        "fileHash": "a288d729358158bc2bab22ea61c689299da14284e2c5d15ba92b8ca743399e9106d79a362d3166dd2b94cd53336c628b34bb69d0cee22aea555c481b36b6a184",
+        "envName": "3.10.6",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/matthewmorales/.pyenv/versions/3.10.6/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.6-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.6-final"
+        },
+        "sysPrefix": "/Users/matthewmorales/.pyenv/versions/3.10.6",
+        "fileHash": "53cf60b73358f9aec3979d8cb861406c5e044150dcceacd7f57051af2c8fb0681b545526081665bb99d4cf28d8fc5a1f7dec44d002e2d2aeb2ff58bc8ae03d10",
+        "envName": "3.10.6",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/matthewmorales/.pyenv/versions/3.10.6/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.6-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.6-final"
+        },
+        "sysPrefix": "/Users/matthewmorales/.pyenv/versions/3.10.6",
+        "fileHash": "91cfad180c90174ca839d563315234ffea66d6526ef57e55ee3e04820cb0f4a5917d17fdb51aedbdd3ad3a613ce8402241efdb5903915deb888aaaddd41b0f0e",
+        "envName": "3.10.6",
+        "type": "Pyenv"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/Users/matthewmorales/.pyenv/versions/3.10.6/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.6-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.6-final"
+        },
+        "sysPrefix": "/Users/matthewmorales/.pyenv/versions/3.10.6",
+        "fileHash": "53cf60b73358f9aec3979d8cb861406c5e044150dcceacd7f57051af2c8fb0681b545526081665bb99d4cf28d8fc5a1f7dec44d002e2d2aeb2ff58bc8ae03d10",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/matthewmorales/.pyenv/versions/3.10.6/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.6-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.6-final"
+        },
+        "sysPrefix": "/Users/matthewmorales/.pyenv/versions/3.10.6",
+        "fileHash": "a288d729358158bc2bab22ea61c689299da14284e2c5d15ba92b8ca743399e9106d79a362d3166dd2b94cd53336c628b34bb69d0cee22aea555c481b36b6a184",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/opt/python@3.10/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.7-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.7-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+        "fileHash": "c1d6a5ec422a736e7be209bf068c7eaaec47ebc1303603a8d35ee3dbb110a9be81b5fd199f4f6f11bb25b7a3b85925b7850dccd42861500a05b84c72b5e12f50",
+        "type": "Unknown"
+      }
+    ],
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/Users/matthewmorales/.pyenv/versions/3.10.6/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.6-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.6-final"
+      },
+      "sysPrefix": "/Users/matthewmorales/.pyenv/versions/3.10.6",
+      "fileHash": "a288d729358158bc2bab22ea61c689299da14284e2c5d15ba92b8ca743399e9106d79a362d3166dd2b94cd53336c628b34bb69d0cee22aea555c481b36b6a184",
+      "type": "Unknown",
+      "cachedEntry": true
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/opt/homebrew/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.7-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.7-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+      "fileHash": "825954303b192fd3cc3573ed98231b7183fb9bb73582b0f4e55fe72bc82ec7e4ce73545eb881d037b83a3fd37e7d40ed15f23ed23c9a0aa952200070b30e5290",
+      "type": "Unknown",
+      "displayName": "Python 3.10.7 64-bit"
+    },
+    "/Users/matthewmorales/.pyenv/versions/3.10.6/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "a288d729358158bc2bab22ea61c689299da14284e2c5d15ba92b8ca743399e9106d79a362d3166dd2b94cd53336c628b34bb69d0cee22aea555c481b36b6a184",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/matthewmorales/.pyenv/versions/3.10.6/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.6-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.6-final"
+          },
+          "sysPrefix": "/Users/matthewmorales/.pyenv/versions/3.10.6",
+          "fileHash": "a288d729358158bc2bab22ea61c689299da14284e2c5d15ba92b8ca743399e9106d79a362d3166dd2b94cd53336c628b34bb69d0cee22aea555c481b36b6a184",
+          "envName": "3.10.6",
+          "type": "Pyenv",
+          "displayName": "Python 3.10.6 64-bit ('3.10.6': pyenv)"
+        }
+      },
+      "expiry": 1666873119636
+    },
+    "/Users/matthewmorales/.pyenv/shims/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/matthewmorales/.pyenv/shims/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.6-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.6-final"
+        },
+        "sysPrefix": "/Users/matthewmorales/.pyenv/versions/3.10.6",
+        "fileHash": "605637737756a9acbc88312c3b15ef07b34901ed5dedec3d11a39f3ff0e269d574116e08c0851a992cb8151dd8e9f256923d0ca4e7e42bde26741dfcbdb5a793"
+      },
+      "expiry": 1666959802655
+    },
+    "/Users/matthewmorales/.pyenv/shims/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/matthewmorales/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.6-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.6-final"
+        },
+        "sysPrefix": "/Users/matthewmorales/.pyenv/versions/3.10.6",
+        "fileHash": "50ac6c728cd0d66c507fc1b4536d0ab2e1b0e6be8e233f89e784cd9159e8462320764e331dbeb752d0b36651b58fde7771a888055cb47dcd20dae972223b35bd"
+      },
+      "expiry": 1666959802652
+    },
+    "/Users/matthewmorales/.pyenv/shims/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/matthewmorales/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.6-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.6-final"
+        },
+        "sysPrefix": "/Users/matthewmorales/.pyenv/versions/3.10.6",
+        "fileHash": "8f142f69d9f7393bf4bab23fc2e8a2edaae3dd78ccc7b12f75e05d92d5760156edac85bfa48d2764b0795f3efcbeb243d64306c799af053298616c1a3192082b"
+      },
+      "expiry": 1666959802653
+    },
+    "/opt/homebrew/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.7-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.7-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+        "fileHash": "2a23a79b969947d2f5313e942b3b04bc4f411d35f74580ecc63f444338664771d0dfe227f75dea6b66a9d9c39c65290ba351ace6dc61e7dda54801e6aa55f053"
+      },
+      "expiry": 1666959802630
+    },
+    "/opt/homebrew/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.7-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.7-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+        "fileHash": "825954303b192fd3cc3573ed98231b7183fb9bb73582b0f4e55fe72bc82ec7e4ce73545eb881d037b83a3fd37e7d40ed15f23ed23c9a0aa952200070b30e5290"
+      },
+      "expiry": 1666959802630
+    },
+    "/Users/matthewmorales/.pyenv/versions/3.10.6/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.6 64-bit ('3.10.6': pyenv)",
+        "hash": "a288d729358158bc2bab22ea61c689299da14284e2c5d15ba92b8ca743399e9106d79a362d3166dd2b94cd53336c628b34bb69d0cee22aea555c481b36b6a184-a08ea33c9e6cdec53c703ffc742e4666"
+      },
+      "expiry": 1666873119629
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9",
+        "fileHash": "5ec935f65a4dd6fd36846d29b9ab0dbfa2869f4bac755aadbbce7bbbe66dcb2804ab28125313c3537345d3b30914b69532f51e35b5bf593a6fce9725cb6ad402"
+      },
+      "expiry": 1666959802788
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/Users/matthewmorales/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.6-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.6-final"
+        },
+        "sysPrefix": "/Users/matthewmorales/.pyenv/versions/3.10.6",
+        "fileHash": "8f142f69d9f7393bf4bab23fc2e8a2edaae3dd78ccc7b12f75e05d92d5760156edac85bfa48d2764b0795f3efcbeb243d64306c799af053298616c1a3192082b",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/matthewmorales/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.6-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.6-final"
+        },
+        "sysPrefix": "/Users/matthewmorales/.pyenv/versions/3.10.6",
+        "fileHash": "50ac6c728cd0d66c507fc1b4536d0ab2e1b0e6be8e233f89e784cd9159e8462320764e331dbeb752d0b36651b58fde7771a888055cb47dcd20dae972223b35bd",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/matthewmorales/.pyenv/shims/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.6-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.6-final"
+        },
+        "sysPrefix": "/Users/matthewmorales/.pyenv/versions/3.10.6",
+        "fileHash": "605637737756a9acbc88312c3b15ef07b34901ed5dedec3d11a39f3ff0e269d574116e08c0851a992cb8151dd8e9f256923d0ca4e7e42bde26741dfcbdb5a793",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.7-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.7-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+        "fileHash": "825954303b192fd3cc3573ed98231b7183fb9bb73582b0f4e55fe72bc82ec7e4ce73545eb881d037b83a3fd37e7d40ed15f23ed23c9a0aa952200070b30e5290",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.7-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.7-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+        "fileHash": "2a23a79b969947d2f5313e942b3b04bc4f411d35f74580ecc63f444338664771d0dfe227f75dea6b66a9d9c39c65290ba351ace6dc61e7dda54801e6aa55f053",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9",
+        "fileHash": "5ec935f65a4dd6fd36846d29b9ab0dbfa2869f4bac755aadbbce7bbbe66dcb2804ab28125313c3537345d3b30914b69532f51e35b5bf593a6fce9725cb6ad402",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9",
+        "fileHash": "5ec935f65a4dd6fd36846d29b9ab0dbfa2869f4bac755aadbbce7bbbe66dcb2804ab28125313c3537345d3b30914b69532f51e35b5bf593a6fce9725cb6ad402",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/Users/matthewmorales/.pyenv/shims/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.6 64-bit",
+        "hash": "8f142f69d9f7393bf4bab23fc2e8a2edaae3dd78ccc7b12f75e05d92d5760156edac85bfa48d2764b0795f3efcbeb243d64306c799af053298616c1a3192082b-259117e19455e4585f634eded2efe287"
+      },
+      "expiry": 1666874410899
+    },
+    "/opt/homebrew/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.7 64-bit",
+        "hash": "825954303b192fd3cc3573ed98231b7183fb9bb73582b0f4e55fe72bc82ec7e4ce73545eb881d037b83a3fd37e7d40ed15f23ed23c9a0aa952200070b30e5290-d193c7a373f718ed567f171f191d88a1"
+      },
+      "expiry": 1666873119670
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.6 64-bit",
+        "hash": "5ec935f65a4dd6fd36846d29b9ab0dbfa2869f4bac755aadbbce7bbbe66dcb2804ab28125313c3537345d3b30914b69532f51e35b5bf593a6fce9725cb6ad402-0a8c279cfec2628974250dff1a49df31"
+      },
+      "expiry": 1666874410901
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/opt/homebrew/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.7-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.7-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+      "fileHash": "825954303b192fd3cc3573ed98231b7183fb9bb73582b0f4e55fe72bc82ec7e4ce73545eb881d037b83a3fd37e7d40ed15f23ed23c9a0aa952200070b30e5290",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.10.7 64-bit"
+    },
+    "/Users/matthewmorales/.pyenv/shims/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "8f142f69d9f7393bf4bab23fc2e8a2edaae3dd78ccc7b12f75e05d92d5760156edac85bfa48d2764b0795f3efcbeb243d64306c799af053298616c1a3192082b",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/matthewmorales/.pyenv/shims/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.6-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.6-final"
+          },
+          "sysPrefix": "/Users/matthewmorales/.pyenv/versions/3.10.6",
+          "fileHash": "8f142f69d9f7393bf4bab23fc2e8a2edaae3dd78ccc7b12f75e05d92d5760156edac85bfa48d2764b0795f3efcbeb243d64306c799af053298616c1a3192082b",
+          "type": "Unknown",
+          "displayName": "Python 3.10.6 64-bit"
+        }
+      },
+      "expiry": 1666874410904
+    },
+    "/opt/homebrew/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "825954303b192fd3cc3573ed98231b7183fb9bb73582b0f4e55fe72bc82ec7e4ce73545eb881d037b83a3fd37e7d40ed15f23ed23c9a0aa952200070b30e5290",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/homebrew/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.7-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 7,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.7-final"
+          },
+          "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+          "fileHash": "825954303b192fd3cc3573ed98231b7183fb9bb73582b0f4e55fe72bc82ec7e4ce73545eb881d037b83a3fd37e7d40ed15f23ed23c9a0aa952200070b30e5290",
+          "type": "Unknown",
+          "displayName": "Python 3.10.7 64-bit"
+        }
+      },
+      "expiry": 1666874410905
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "5ec935f65a4dd6fd36846d29b9ab0dbfa2869f4bac755aadbbce7bbbe66dcb2804ab28125313c3537345d3b30914b69532f51e35b5bf593a6fce9725cb6ad402",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.6-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.6-final"
+          },
+          "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9",
+          "fileHash": "5ec935f65a4dd6fd36846d29b9ab0dbfa2869f4bac755aadbbce7bbbe66dcb2804ab28125313c3537345d3b30914b69532f51e35b5bf593a6fce9725cb6ad402",
+          "type": "Unknown",
+          "displayName": "Python 3.9.6 64-bit"
+        }
+      },
+      "expiry": 1666874410906
+    },
+    "ProposeLSBanner": false,
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/opt/homebrew/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.7-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.7-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+      "fileHash": "825954303b192fd3cc3573ed98231b7183fb9bb73582b0f4e55fe72bc82ec7e4ce73545eb881d037b83a3fd37e7d40ed15f23ed23c9a0aa952200070b30e5290",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.10.7 64-bit"
+    },
+    "/opt/homebrew/opt/python@3.10/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/opt/python@3.10/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.7-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.7-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+        "fileHash": "c1d6a5ec422a736e7be209bf068c7eaaec47ebc1303603a8d35ee3dbb110a9be81b5fd199f4f6f11bb25b7a3b85925b7850dccd42861500a05b84c72b5e12f50"
+      },
+      "expiry": 1666959802655
+    }
+  },
+  "coc-python|/Users/matthewmorales/development/sojern": {
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:e1db8a59ea36a70698e916214e0754af": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:e1db8a59ea36a70698e916214e0754af": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/matthewmorales/development/sojern": {
+      "architecture": 3,
+      "path": "/Users/matthewmorales/.pyenv/versions/3.10.6/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.6-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.6-final"
+      },
+      "sysPrefix": "/Users/matthewmorales/.pyenv/versions/3.10.6",
+      "fileHash": "a288d729358158bc2bab22ea61c689299da14284e2c5d15ba92b8ca743399e9106d79a362d3166dd2b94cd53336c628b34bb69d0cee22aea555c481b36b6a184",
+      "type": "Unknown"
+    }
+  },
+  "coc-python|/Users/matthewmorales/development/sojern/math-api-py": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:2b3e8a3bf0bba6f61afb34dd5f1212a1": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:2b3e8a3bf0bba6f61afb34dd5f1212a1": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/matthewmorales/development/sojern/math-api-py": {
+      "architecture": 3,
+      "path": "/opt/homebrew/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.7-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.7-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+      "fileHash": "825954303b192fd3cc3573ed98231b7183fb9bb73582b0f4e55fe72bc82ec7e4ce73545eb881d037b83a3fd37e7d40ed15f23ed23c9a0aa952200070b30e5290",
+      "type": "Unknown",
+      "displayName": "Python 3.10.7 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/matthewmorales/development/sojern-new": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:1fc6a5b66912535a2c014240f2d5f940": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:1fc6a5b66912535a2c014240f2d5f940": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/matthewmorales/development/sojern-new": {
+      "architecture": 3,
+      "path": "/opt/homebrew/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.7-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.7-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+      "fileHash": "825954303b192fd3cc3573ed98231b7183fb9bb73582b0f4e55fe72bc82ec7e4ce73545eb881d037b83a3fd37e7d40ed15f23ed23c9a0aa952200070b30e5290",
+      "type": "Unknown",
+      "displayName": "Python 3.10.7 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/matthewmorales/development/algos_practice": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:cb8238e02cf2c7a8913fc9d21ac06bba": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:cb8238e02cf2c7a8913fc9d21ac06bba": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/matthewmorales/development/algos_practice": {
+      "architecture": 3,
+      "path": "/opt/homebrew/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.7-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.7-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+      "fileHash": "825954303b192fd3cc3573ed98231b7183fb9bb73582b0f4e55fe72bc82ec7e4ce73545eb881d037b83a3fd37e7d40ed15f23ed23c9a0aa952200070b30e5290",
+      "type": "Unknown",
+      "displayName": "Python 3.10.7 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  }
+}

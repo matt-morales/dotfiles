@@ -1,0 +1,38 @@
+{
+  "suggest.noselect": false,
+  "diagnostic.errorSign": "✘",
+  "diagnostic.warningSign": "!",
+  "diagnostic.infoSign": "?",
+  "diagnostic.checkCurrentLine": true,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "dart",
+    "sql",
+    "python",
+    "javascript",
+    "html",
+    "json",
+    "css",
+    "scss",
+    "go"
+  ],
+  "coc.preferences.hoverTarget": "float",
+  "languageserver": {
+    "golang": {
+      "command": "gopls",
+      "rootPatterns": ["go.mod"],
+      "filetypes": ["go"]
+    },
+    "flow": {
+      "command": "flow",
+      "args": ["lsp"],
+      "filetypes": ["javascript", "javascriptreact"],
+      "initializationOptions": {},
+      "requireRootPattern": true,
+      "settings": {},
+      "rootPatterns": [".flowconfig"]
+    }
+  },
+  "go.goplsOptions": {
+    "staticcheck": true
+  }
+}
