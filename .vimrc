@@ -1,7 +1,7 @@
 execute pathogen#infect()
 
-source fzf.vim
-source yaml.vim
+source $HOME/dotfiles/fzf.vim
+source $HOME/dotfiles/yaml.vim
 
 syntax on
 filetype plugin indent on
